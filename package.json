@@ -33,7 +33,7 @@
     "babel-preset-react": "^6.24.1",
     "catalog": "^3.0.0",
     "chai": "^4.1.2",
-    "clean-css-cli": "^4.1.10",
+    "clean-css-cli": "^5.2.1",
     "cross-env": "^5.0.5",
     "del-cli": "^1.1.0",
     "enzyme": "^3.3.0",
